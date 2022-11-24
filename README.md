@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanphill
 - 👀 I’m interested in Wed Development 
-- 🌱 I’m currently also trying learn Python
+- 🌱 I’m currently also trying to learn Python
 - 💞️ I’m looking to collaborate on Wed Dev Projects
 
 
